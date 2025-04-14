@@ -19,6 +19,8 @@ In angular.json:
 ## Add ngxtension
 `npm install -D ngxtension-plugin`
 
+`ng g ngxtension-plugin:init`
+
 ## Add tailwind
 `npm install -D tailwindcss@3 postcss autoprefixer`
 
